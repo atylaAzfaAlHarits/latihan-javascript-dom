@@ -1,0 +1,32 @@
+*{
+    border: 1px gray solid;
+    padding: 10px;
+    margin: 10px;
+}
+
+body, html, a, button, .spanButton, u{
+    border: none;
+}
+
+.group-1{
+    margin-top: 2rem;
+    background-color: #bada55;
+}
+
+.group-2{
+    margin-top: 2rem;
+    background-color: salmon;
+}
+
+.bg-blue{
+    background-color: lightblue;
+}
+
+.darkMode{
+    background-color: rgb(173, 168, 168);
+}
+
+button{
+    cursor: pointer;
+    border-radius: 10px;
+}

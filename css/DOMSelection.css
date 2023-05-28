@@ -1,0 +1,13 @@
+*{
+    border: 1px gray solid;
+    padding: 10px;
+    margin: 10px;
+}
+
+body, html{
+    border: none;
+}
+
+div{
+    margin-top: 2rem;
+}

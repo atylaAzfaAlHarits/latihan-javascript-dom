@@ -55,6 +55,16 @@ inptToggle.addEventListener('click', function(){
     document.body.classList.toggle('darkMode');
 });
 
+
+
+// classList item()
+const item = document.querySelector('#list-1');
+console.log(item.classList.item(1));
+
+
+// classList contains()
+console.log(item.classList.contains('group'));
+
 // End Manipulation Element
 
 
